@@ -1,5 +1,4 @@
 song="";
-score_left_wrist= 0;
 
 function preload(){
 song= loadSound("music.mp3");
@@ -9,6 +8,7 @@ left_wrist_x= 0;
 left_wrist_y= 0;
 right_wrist_x= 0;
 right_wrist_y= 0;
+score_left_wrist= 0;
 
 function setup(){
 canvas= createCanvas(500, 500);
