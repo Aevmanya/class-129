@@ -1,0 +1,44 @@
+.heading{
+font-size: 30px;
+text-align: center;
+width: 100%;
+}
+
+.note{
+font-size: 15px;
+}
+
+.div_speed{
+float: left;
+margin-top: 50px;
+}
+
+.div_speed_img{
+width: 300px;
+height: 300px;
+margin-top: 90px;
+margin-left: 30px;
+}
+
+.div_volume{
+float: right;
+margin-top: 50px;
+}
+    
+.div_volume_img{
+width: 300px;
+height: 300px;
+margin-top: 90px;
+margin-right: 30px;
+}
+
+body{
+background-size: cover;
+}
+
+canvas{
+border-style: solid;
+border-width: 5px;
+border-color: black;
+border-radius: 10px;
+}
