@@ -1,4 +1,5 @@
 song="";
+score_left_wrist= 0;
 
 function preload(){
 song= loadSound("music.mp3");
